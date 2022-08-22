@@ -7,6 +7,7 @@ Un blog increíble para el [curso de Git y GitHub](https://platzi.com/cursos/git
 
 * Todos los comandos de Git.
 * El flujo de trabajo en GitHub.
+* Creado por Robert.
 * La implementacion de las buenas practicas a nuestros proyectos.
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado como ejemplo. Si llegaste hasta aca NO TE LO TOMES ENSERIO y mejor ve [a ver el curso](https://platzi.com/cursos/git-github/).
